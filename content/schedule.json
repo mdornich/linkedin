@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-11-02T04:57:31Z",
+  "last_updated": "2025-11-03T12:00:00Z",
   "posts": [
     {
       "id": "babysitting-claude-code",
@@ -371,6 +371,15 @@
       "original_idea": "bugzy-pivot-from-manual-to-automation-qa.md",
       "status": "published",
       "notes": "Sunday - Product evolution based on cost calculation and customer feedback. Shows how 2 conversations plus economics drove natural improvement. Cost realization (LLM per step expensive) plus 'bridge the gap' insight. Perfect weekend reflection post. Different from Oct 31 vacation (work-life) - this is product/customer focus."
+    },
+    {
+      "id": "ai-powered-gtm-engine",
+      "file": "content/scheduled/2025-11-03-ai-powered-gtm-engine.md",
+      "scheduled_date": "2025-11-03",
+      "priority": 1,
+      "original_idea": "ai-powered-gtm-lead-generation.md",
+      "status": "scheduled",
+      "notes": "Sunday - GTM automation and founder-led sales. 20% AI Ops in action: built lead generation tool with Claude Code. Work-in-progress honest update (5-6 leads found, still tuning criteria). Provides variety after product pivot post - this is about sales process. Meta angle: using AI to build GTM for AI product."
     }
   ]
 }
