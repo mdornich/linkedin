@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-11-03T12:00:00Z",
+  "last_updated": "2025-11-03T15:30:00Z",
   "posts": [
     {
       "id": "babysitting-claude-code",
@@ -374,11 +374,12 @@
     },
     {
       "id": "ai-powered-gtm-engine",
-      "file": "content/scheduled/2025-11-03-ai-powered-gtm-engine.md",
+      "file": "content/published/2025-11-03-ai-powered-gtm-engine.md",
       "scheduled_date": "2025-11-03",
+      "published_date": "2025-11-03",
       "priority": 1,
       "original_idea": "ai-powered-gtm-lead-generation.md",
-      "status": "scheduled",
+      "status": "published",
       "notes": "Sunday - GTM automation and founder-led sales. 20% AI Ops in action: built lead generation tool with Claude Code. Work-in-progress honest update (5-6 leads found, still tuning criteria). Provides variety after product pivot post - this is about sales process. Meta angle: using AI to build GTM for AI product."
     }
   ]

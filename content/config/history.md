@@ -526,6 +526,25 @@ Based on this history, future posts should:
 **Key Insight**: The "should I vacation" question is easy (yes, for family). The "how to actually vacation" question is impossible when you're solo and building trust with early pilots.
 **Hashtags**: #SoloFounder #StartupLife #WorkLifeBalance #BuildingInPublic
 
+### November 2, 2025 - Two Conversations Changed Bugzy's Direction
+**Summary**: Bugzy is pivoting from manual QA (AI agent clicking through every step) to automation QA (AI agent creating and running automated test code). The decision came from two insights: (1) Cost calculation showed LLM calls between every manual action are expensive; automation code is a fraction of the cost. (2) Two customer conversations revealed "We need something to help bridge the gap, not replace the team." The pivot maintains manual exploration for failure analysis but shifts execution to code. Same goal (close testing gaps), different implementation (automation as leverage, not manual labor replication).
+**Key Theme**: Product pivot based on economics and customer feedback, cost-driven decisions, listening to what customers actually need
+**Style**: Simple chronological narrative, transparent about the math and customer input, pragmatic tone
+**Narrative**: Shows application of customer development from Oct 27 post. Different from Oct 31 vacation (work-life) - this is product/customer focus. Weekend reflection post about product evolution.
+**Engagement Hook**: "How do you decide between manual and automated approaches in your work?"
+**Key Insight**: Sometimes the best insights come from doing the math and listening. Two conversations plus cost realization drove a natural product improvement - bridge the gap vs replace the team.
+**Hashtags**: #BuildingInPublic #QAAutomation #Bugzy #CustomerDevelopment #StartupLessons
+
+### November 3, 2025 - I Built an AI-Powered Go-to-Market Engine (The 20% Part)
+**Summary**: After ICP definition revealed only 2 of 30 cold leads actually fit, started manually searching LinkedIn for better matches (scrolling company pages, checking tech stacks, reading job postings). Realized this research could be automated. Built quick tool using Claude Code and browser automation: scrape LinkedIn leads, verify against ICP criteria, add qualified matches to CRM. The 20% AI Ops part of 40:40:20 rule in action. Honest update: found 5-6 leads so far, contacted some, few weren't good fits. Still figuring out criteria and tuning what "qualified" means. Time savings are real (10 minutes reviewing vs 2 hours searching), but lead quality still learning. NOT automating outreach - stays manual, personal, one conversation at a time.
+**Key Theme**: GTM automation and founder-led sales, 20% AI Ops implementation, work-in-progress honesty, automate research not relationships
+**Style**: Straightforward progression story, honest about being in iteration phase, transparent about imperfect results, meta-awareness about using AI to build AI company GTM
+**Narrative**: Provides variety after product pivot post - shifts from product to sales process. Shows practical implementation of 40:40:20 framework mentioned in previous posts. Work-in-progress tone differs from finished project announcements.
+**Engagement Hook**: "What parts of your GTM have you automated? What parts will you never automate?"
+**Technical Focus**: Claude Code and browser automation for LinkedIn scraping, ICP criteria verification, CRM integration, iterative learning process
+**Key Insight**: The meta part: using AI coding assistant to build go-to-market engine for AI product. Build tools that make Sell time productive, then iterate as you learn. No $10k/month sales platform - just Claude Code, browser automation, figuring it out.
+**Hashtags**: #BuildingInPublic #AIAutomation #FounderLedSales #GTM #StartupLife
+
 ---
 
 *This history provides context for maintaining authentic, story-connected LinkedIn content that builds on Milko's genuine professional journey.*
