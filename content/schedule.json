@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-11-03T15:30:00Z",
+  "last_updated": "2025-11-04T09:00:00Z",
   "posts": [
     {
       "id": "babysitting-claude-code",
@@ -381,6 +381,15 @@
       "original_idea": "ai-powered-gtm-lead-generation.md",
       "status": "published",
       "notes": "Sunday - GTM automation and founder-led sales. 20% AI Ops in action: built lead generation tool with Claude Code. Work-in-progress honest update (5-6 leads found, still tuning criteria). Provides variety after product pivot post - this is about sales process. Meta angle: using AI to build GTM for AI product."
+    },
+    {
+      "id": "questioning-grow-fast-or-die",
+      "file": "content/scheduled/2025-11-05-questioning-grow-fast-or-die.md",
+      "scheduled_date": "2025-11-05",
+      "priority": 1,
+      "original_idea": "questioning-grow-fast-or-die.md",
+      "status": "scheduled",
+      "notes": "Tuesday - Challenging 'grow fast or die' investor narrative. Strategic thinking about fundraising vs product focus. Perfect variety after product pivot (Nov 2) and GTM tool (Nov 3). Shows WHY building this way - not chasing growth for growth's sake. References 40:40:20 framework. Contrarian but defensible stance based on real investor conversations."
     }
   ]
 }

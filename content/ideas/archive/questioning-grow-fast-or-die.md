@@ -3,7 +3,9 @@ title: "Questioning the 'Grow Fast or Die' Investor Narrative"
 created_date: 2025-10-31
 tags: ["startup-advice", "fundraising", "solo-founder", "build-in-public", "differentiation"]
 priority: high
-status: new
+status: drafted
+draft_file: questioning-grow-fast-or-die.md
+drafted_date: 2025-11-04
 ---
 
 ## Original Prompt
