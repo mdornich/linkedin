@@ -384,11 +384,12 @@
     },
     {
       "id": "questioning-grow-fast-or-die",
-      "file": "content/scheduled/2025-11-05-questioning-grow-fast-or-die.md",
+      "file": "content/published/2025-11-05-questioning-grow-fast-or-die.md",
       "scheduled_date": "2025-11-05",
+      "published_date": "2025-11-05",
       "priority": 1,
       "original_idea": "questioning-grow-fast-or-die.md",
-      "status": "scheduled",
+      "status": "published",
       "notes": "Tuesday - Challenging 'grow fast or die' investor narrative. Strategic thinking about fundraising vs product focus. Perfect variety after product pivot (Nov 2) and GTM tool (Nov 3). Shows WHY building this way - not chasing growth for growth's sake. References 40:40:20 framework. Contrarian but defensible stance based on real investor conversations."
     }
   ]
